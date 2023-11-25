@@ -54,7 +54,6 @@ setup(
         'varint',
         'base58',
         'netaddr',
-        'py-cid',
         'py-multicodec >= 0.2.0',
     ],
     test_suite='tests',
